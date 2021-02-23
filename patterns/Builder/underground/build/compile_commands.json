@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/petrkamnev/patterns/builder/underground/build",
+  "command": "/usr/bin/clang++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o CMakeFiles/underground.dir/main.cpp.o -c /Users/petrkamnev/patterns/builder/underground/main.cpp",
+  "file": "/Users/petrkamnev/patterns/builder/underground/main.cpp"
+}
+]

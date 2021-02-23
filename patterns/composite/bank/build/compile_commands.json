@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/petrkamnev/patterns/composite/bank/build",
+  "command": "/usr/bin/clang++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o CMakeFiles/bank.dir/main.cpp.o -c /Users/petrkamnev/patterns/composite/bank/main.cpp",
+  "file": "/Users/petrkamnev/patterns/composite/bank/main.cpp"
+}
+]

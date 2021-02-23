@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/petrkamnev/cpphse/hash_table/build",
+  "command": "/usr/bin/clang++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o CMakeFiles/unordered_map.dir/main.cpp.o -c /Users/petrkamnev/cpphse/hash_table/main.cpp",
+  "file": "/Users/petrkamnev/cpphse/hash_table/main.cpp"
+}
+]

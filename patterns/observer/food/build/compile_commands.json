@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/petrkamnev/patterns/observer/food/build",
+  "command": "/usr/bin/clang++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -std=gnu++17 -o CMakeFiles/food.dir/main.cpp.o -c /Users/petrkamnev/patterns/observer/food/main.cpp",
+  "file": "/Users/petrkamnev/patterns/observer/food/main.cpp"
+}
+]

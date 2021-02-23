@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/petrkamnev/cpphse/vector/build",
+  "command": "/usr/bin/clang++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o CMakeFiles/vector.dir/main.cpp.o -c /Users/petrkamnev/cpphse/vector/main.cpp",
+  "file": "/Users/petrkamnev/cpphse/vector/main.cpp"
+}
+]

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/petrkamnev/patterns/flyweight/mobile/build",
+  "command": "/usr/bin/clang++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o CMakeFiles/MobileFlyweight.dir/main.cpp.o -c /Users/petrkamnev/patterns/flyweight/mobile/main.cpp",
+  "file": "/Users/petrkamnev/patterns/flyweight/mobile/main.cpp"
+}
+]

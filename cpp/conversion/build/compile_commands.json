@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/petrkamnev/temp_tech/build",
+  "command": "/usr/bin/clang++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o CMakeFiles/temp_tech.dir/main.cpp.o -c /Users/petrkamnev/temp_tech/main.cpp",
+  "file": "/Users/petrkamnev/temp_tech/main.cpp"
+}
+]

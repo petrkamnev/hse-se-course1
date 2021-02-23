@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/petrkamnev/cpphse/pointers/build",
+  "command": "/usr/bin/clang++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -std=gnu++17 -o CMakeFiles/pointers.dir/main.cpp.o -c /Users/petrkamnev/cpphse/pointers/main.cpp",
+  "file": "/Users/petrkamnev/cpphse/pointers/main.cpp"
+}
+]

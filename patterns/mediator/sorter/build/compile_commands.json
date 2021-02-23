@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/petrkamnev/patterns/mediator/sorter/build",
+  "command": "/usr/bin/clang++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o CMakeFiles/sorter.dir/main.cpp.o -c /Users/petrkamnev/patterns/mediator/sorter/main.cpp",
+  "file": "/Users/petrkamnev/patterns/mediator/sorter/main.cpp"
+}
+]

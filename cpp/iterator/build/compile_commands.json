@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/petrkamnev/iterator/build",
+  "command": "/usr/bin/clang++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -std=gnu++11 -o CMakeFiles/iterator.dir/main.cpp.o -c /Users/petrkamnev/iterator/main.cpp",
+  "file": "/Users/petrkamnev/iterator/main.cpp"
+}
+]
